@@ -1,4 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yunfei Wu!  
+I'm a **Full-Stack Developer** with **4 years of experience**, passionate about building scalable solutions and continuously learning new technologies😄
+
+🌍 **Based in** Winnipeg, Canada  
+🎓 **Education**:  
+   - **Bachelor's Degree in Business Analysis** (Malaysia)  
+   - **Currently pursuing** Application Development & Delivery at RRC Polytech  
+
+💻 **Tech Stack**:  
+   - Python, JavaScript (React, Vue.js, Node.js, Express.js), SQL, Power BI, Git  
+
+🚀 **Open to opportunities** in **Full-Stack Development, Software Engineering & Data Science**  
+
+📫 **Let's connect!**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yunfei-wu-33632018b)
+
+
+
+
 
 <!--
 **yunfeiWu97/yunfeiWu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
