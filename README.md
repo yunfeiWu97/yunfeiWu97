@@ -7,7 +7,7 @@ I'm a **Full-Stack Developer** with **4 years of experience**, passionate about 
    - **Currently pursuing** Application Development & Delivery at RRC Polytech  
 
 💻 **Tech Stack**:  
-   - Python, JavaScript (React, Vue.js, Node.js, Express.js), SQL, Power BI, Git  
+   - Python, C#, PHP, JavaScript (React, Vue.js, Node.js, Express.js), SQL, Power BI, Git  
 
 🚀 **Open to opportunities** in **Full-Stack Development, Software Engineering & Data Science**  
 
