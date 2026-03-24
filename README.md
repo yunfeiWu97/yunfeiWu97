@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yunfei Wu (Leslie)!  
-I'm a **Full-Stack Developer** with **4 years of experience**, passionate about building scalable solutions and continuously learning new technologies😄
+I'm a **Full-Stack Developer** with **4 years of experience**, with experience in **application support**, **IT processes**, and building scalable solutions.
 
 🌍 **Based in** Winnipeg, Canada  
 🎓 **Education**:  
@@ -7,9 +7,9 @@ I'm a **Full-Stack Developer** with **4 years of experience**, passionate about 
    - **Currently pursuing** Application Development & Delivery at RRC Polytech  
 
 💻 **Tech Stack**:  
-   - Python, C#, PHP, JavaScript (React, Vue.js, Node.js, Express.js), SQL, Power BI, Git  
+   - Python, C#, JavaScript (React, Vue.js, Node.js, Express.js), SQL, Power BI, Git  
 
-🚀 **Open to opportunities** in **Full-Stack Development, Software Engineering & Data Science**  
+🚀 **Open to opportunities** in **Full-Stack Development, IT Support & Data Science**  
 
 📫 **Let's connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yunfei-wu-33632018b)
